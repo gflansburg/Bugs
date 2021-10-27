@@ -1,0 +1,15 @@
+﻿<h3>Gafware.com Bugs Module</h3>
+<p class="Contributor">
+	Glenn Flansburg<br />
+	<a href="mailto:support@gafware.com">support@gafware.com</a><br />
+	<a href=http://www.gafware.com>http://www.gafware.com</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the Bugs Moudle</h3>
+	<p class="Owner">
+		<b>Version 1.0</b><br /><br />
+	</p>
+	<p>Description about version.</p>
+		Initial Release	
+</div>
