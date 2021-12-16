@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Bugs")]
 [assembly: AssemblyDescription("DNN Bugs Module")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Gafware")]
 [assembly: AssemblyProduct("Bugs")]
-[assembly: AssemblyCopyright("Copyright © 2021 Gafware.com")]
+[assembly: AssemblyCopyright("Copyright © 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -31,4 +31,6 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 [assembly: AssemblyVersion("01.00.00.*")]
+#pragma warning disable CS7035 // The specified version string does not conform to the recommended format - major.minor.build.revision
 [assembly: AssemblyFileVersion("01.00.00.*")]
+#pragma warning restore CS7035 // The specified version string does not conform to the recommended format - major.minor.build.revision
